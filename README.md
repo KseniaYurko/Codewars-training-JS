@@ -4,7 +4,7 @@ This repo contains tasks of varying complexity from the Codewars site :)
 Tasks for training the basics of language. Most of them solved in one line)
 
 ## Runk Up  
-More complex tasks amied at training algorithms. 
+More complex tasks amied at training algorithms. For each task? in addition to solving, i tried to write testing as well)
 
 <details><summary> <a href="https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/javascript"><b>1. Duplicate encoder.js</b></a></summary>
 <p>
